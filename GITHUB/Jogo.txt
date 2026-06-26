@@ -1,0 +1,922 @@
+P: ABACAXI
+D: fruta tropical
+D: casca espinhosa
+D: sabor doce
+D: usada em suco
+D: amarelo por dentro
+D: cresce no solo
+D: tem coroa
+D: comum no verão
+D: rica em vitamina C
+D: origem tropical
+
+P: COMPUTADOR
+D: maquina eletronica
+D: processa dados
+D: usa programas
+D: tem teclado
+D: possui monitor
+D: conecta internet
+D: armazena arquivos
+D: pode ser portatil
+D: usado no trabalho
+D: tem CPU
+
+P: FUTEBOL
+D: esporte coletivo
+D: usa bola
+D: tem goleiro
+D: jogado em campo
+D: dois times
+D: regras simples
+D: tem arbitro
+D: Copa do Mundo
+D: muito popular
+D: usa chuteiras
+
+P: GIRAFA
+D: animal alto
+D: pescoco longo
+D: vive na savana
+D: come folhas
+D: tem manchas
+D: herbivoro
+D: corre rapido
+D: vive em grupo
+D: origem africana
+D: lingua comprida
+
+P: ELEFANTE
+D: grande mamifero
+D: tem tromba
+D: vive em grupo
+D: come plantas
+D: animal cinza
+D: orelhas grandes
+D: muito pesado
+D: vive na Africa
+D: memoria forte
+D: presa longa
+
+P: AVIAO
+D: transporte aereo
+D: voa alto
+D: tem asas
+D: usa motor
+D: leva passageiros
+D: decola aeroporto
+D: viaja longe
+D: rapido transporte
+D: piloto controla
+D: usa combustivel
+
+P: CHOCOLATE
+D: doce popular
+D: feito de cacau
+D: pode derreter
+D: sabor doce
+D: usado em sobremesa
+D: barras comuns
+D: varia amargo
+D: muito consumido
+D: origem vegetal
+D: energia rapida
+
+P: CELULAR
+D: aparelho movel
+D: faz ligacoes
+D: envia mensagens
+D: tem internet
+D: tela touch
+D: camera embutida
+D: portatil
+D: usa bateria
+D: apps instalados
+D: comunicacao facil
+
+P: MONTANHA
+D: elevacao natural
+D: muito alta
+D: pode ter neve
+D: usada em trilhas
+D: formacao rochosa
+D: clima frio
+D: escalada comum
+D: vista ampla
+D: parte da natureza
+D: terreno ingreme
+
+P: BICICLETA
+D: veiculo humano
+D: tem duas rodas
+D: usa pedais
+D: nao polui
+D: transporte leve
+D: exercicio fisico
+D: guiada por guidao
+D: cadeado comum
+D: usada em cidades
+D: movimento ecologico
+
+P: MESA
+D: movel domestico
+D: tem tampo
+D: suporta objetos
+D: usada para refeicoes
+D: feita de madeira
+D: possui pernas
+D: comum em casa
+D: pode ser escritorio
+D: superficie plana
+D: usada para estudar
+
+P: CADEIRA
+D: movel de sentar
+D: tem encosto
+D: possui pernas
+D: usada em casa
+D: feita de madeira
+D: pode ser estofada
+D: usada em escritorio
+D: confortavel
+D: suporta peso
+D: objeto comum
+
+P: TELEVISAO
+D: aparelho eletronico
+D: exibe imagens
+D: mostra canais
+D: usada em casa
+D: tela grande
+D: transmite programas
+D: controle remoto
+D: entretenimento
+D: pode ser smart
+D: audio e video
+
+P: LIVRO
+D: contem texto
+D: feito de paginas
+D: leitura comum
+D: usado para estudo
+D: pode ser digital
+D: historia ou informacao
+D: autor escreve
+D: capa protetora
+D: biblioteca comum
+D: conhecimento
+
+P: ESCOLA
+D: local de estudo
+D: alunos aprendem
+D: professores ensinam
+D: possui salas
+D: educacao basica
+D: livros usados
+D: recreio comum
+D: avaliacoes
+D: aprendizado
+D: instituicao
+
+P: PROFESSOR
+D: ensina alunos
+D: trabalha em escola
+D: explica conteudos
+D: prepara aulas
+D: avalia estudantes
+D: educador
+D: transmite conhecimento
+D: usa livros
+D: corrige provas
+D: profissao importante
+
+P: MEDICO
+D: cuida da saude
+D: trabalha em hospital
+D: receita remedios
+D: atende pacientes
+D: usa estetoscopio
+D: profissao medica
+D: salva vidas
+D: faz diagnosticos
+D: formacao longa
+D: area da saude
+
+P: HOSPITAL
+D: local de saude
+D: atende pacientes
+D: tem medicos
+D: possui enfermeiros
+D: emergencias comuns
+D: realiza cirurgias
+D: equipamentos medicos
+D: tratamento
+D: internacoes
+D: cuidado
+
+P: CARRO
+D: veiculo terrestre
+D: tem quatro rodas
+D: usa combustivel
+D: transporte pessoal
+D: dirige em ruas
+D: motor potente
+D: volante
+D: portas
+D: acelera
+D: freia
+
+P: MOTO
+D: veiculo rapido
+D: duas rodas
+D: usa motor
+D: transporte agil
+D: guidao
+D: capacete necessario
+D: consumo baixo
+D: transito urbano
+D: velocidade alta
+D: mobilidade
+
+P: PRAIA
+D: area litoranea
+D: tem areia
+D: agua do mar
+D: lazer comum
+D: sol forte
+D: ondas
+D: turismo
+D: ferias
+D: calor
+D: descanso
+
+P: MAR
+D: grande agua salgada
+D: ondas naturais
+D: habitat marinho
+D: navios navegam
+D: profundo
+D: salgado
+D: pesca comum
+D: oceano
+D: vasto
+D: horizonte
+
+P: RIO
+D: agua corrente
+D: atravessa cidades
+D: desagua no mar
+D: natureza
+D: peixes vivem
+D: correnteza
+D: fonte de agua
+D: navegacao
+D: paisagem
+D: ecossistema
+
+P: FLORESTA
+D: muitas arvores
+D: animais vivem
+D: biodiversidade
+D: natureza
+D: clima umido
+D: verde intenso
+D: preservacao
+D: ecossistema
+D: sombra
+D: habitat
+
+P: DESERTO
+D: clima seco
+D: pouca agua
+D: areia
+D: calor extremo
+D: pouca vegetacao
+D: dunas
+D: ambiente arido
+D: vida adaptada
+D: vastidao
+D: sol forte
+
+P: NEVE
+D: agua congelada
+D: clima frio
+D: branca
+D: cai do ceu
+D: inverno
+D: forma gelo
+D: montanhas
+D: fria
+D: paisagem branca
+D: precipitacao
+
+P: GELO
+D: agua solida
+D: frio extremo
+D: escorregadio
+D: transparente
+D: congelamento
+D: bebidas
+D: inverno
+D: forma cubos
+D: derrete
+D: temperatura baixa
+
+P: FOGO
+D: calor intenso
+D: chama
+D: queima materiais
+D: luz forte
+D: perigoso
+D: energia
+D: usado em cozinha
+D: vermelho
+D: controle necessario
+D: combustao
+
+P: AGUA
+D: liquido vital
+D: sem cor
+D: sem cheiro
+D: hidratacao
+D: essencial vida
+D: rios
+D: chuva
+D: oceano
+D: transparente
+D: refrescante
+
+P: AR
+D: mistura gases
+D: respiracao
+D: invisivel
+D: atmosfera
+D: vento
+D: essencial vida
+D: oxigenio
+D: leve
+D: circula
+D: natureza
+
+P: SOL
+D: estrela
+D: ilumina Terra
+D: calor
+D: energia
+D: dia
+D: brilho forte
+D: sistema solar
+D: luz natural
+D: fonte vida
+
+P: LUA
+D: satelite natural
+D: orbita Terra
+D: noite
+D: fases
+D: brilho fraco
+D: crateras
+D: gravidade
+D: mares
+D: ceu
+D: astronomico
+
+P: ESTRELA
+D: corpo celeste
+D: brilha no ceu
+D: produz luz
+D: espaco
+D: quente
+D: gas
+D: sistema solar
+D: distante
+D: universo
+D: astronomico
+
+P: PLANETA
+D: corpo espacial
+D: orbita estrela
+D: tem gravidade
+D: forma esferica
+D: Terra exemplo
+D: sistema solar
+D: pode ter vida
+D: rochoso ou gasoso
+D: espaco
+D: orbita
+
+P: UNIVERSO
+D: tudo existente
+D: galaxias
+D: estrelas
+D: espaco infinito
+D: ciencia
+D: planetas
+D: materia
+D: energia
+D: expansao
+D: cosmos
+
+P: COMPUTACAO
+D: area tecnologia
+D: processamento dados
+D: algoritmos
+D: software
+D: hardware
+D: programacao
+D: sistemas
+D: ciencia
+D: inovacao
+D: digital
+
+P: PROGRAMADOR
+D: escreve codigo
+D: usa computador
+D: cria sistemas
+D: resolve problemas
+D: logica
+D: software
+D: linguagem
+D: tecnologia
+D: profissao
+D: desenvolvimento
+
+P: INTERNET
+D: rede global
+D: conecta pessoas
+D: sites
+D: comunicacao
+D: dados
+D: online
+D: informacao
+D: pesquisa
+D: tecnologia
+D: digital
+
+P: MUSICA
+D: som organizado
+D: ritmo
+D: melodia
+D: instrumentos
+D: arte
+D: entretenimento
+D: cantores
+D: expressao
+D: cultura
+D: audicao
+
+P: VIOLAO
+D: instrumento musical
+D: cordas
+D: toca acordes
+D: madeira
+D: musica
+D: popular
+D: dedilhado
+D: som
+D: aprendizado
+D: acustico
+
+P: PIANO
+D: instrumento musical
+D: teclas
+D: som harmonico
+D: classico
+D: musica
+D: grande
+D: notas
+D: concertos
+D: instrumento
+D: teclado
+
+P: GATO
+D: animal domestico
+D: mia
+D: independente
+D: felino
+D: caça ratos
+D: peludo
+D: dorme muito
+D: arranha
+D: companhia
+D: pequeno
+
+P: CACHORRO
+D: animal domestico
+D: late
+D: fiel
+D: companheiro
+D: guarda
+D: brincalhao
+D: peludo
+D: domestico
+D: amigo humano
+D: leal
+
+P: PASSARINHO
+D: ave pequena
+D: voa
+D: canta
+D: penas
+D: bico
+D: natureza
+D: ninho
+D: leve
+D: ceu
+D: liberdade
+
+P: PEIXE
+D: animal aquatico
+D: vive na agua
+D: nadadeiras
+D: respira agua
+D: escamas
+D: rios
+D: mar
+D: nadar
+D: alimento
+D: frio
+
+P: COBRA
+D: reptil
+D: rasteja
+D: venenosa ou nao
+D: sem patas
+D: pele escamosa
+D: silvestre
+D: caça
+D: silenciosa
+D: natureza
+D: perigosa
+
+P: SAPO
+D: anfibio
+D: pula
+D: pele umida
+D: vive na agua
+D: coaxar
+D: insetos
+D: lagoas
+D: verde
+D: natureza
+D: metamorfose
+
+P: LEAO
+D: animal selvagem
+D: rei da selva
+D: rugido
+D: predador
+D: juba
+D: Africa
+D: caça
+D: forte
+D: grupo
+D: felino
+
+P: TIGRE
+D: felino selvagem
+D: listras
+D: predador
+D: forte
+D: caça
+D: solitario
+D: grande
+D: Asia
+D: carnivoro
+D: selvagem
+
+P: URSO
+D: animal grande
+D: forca
+D: hiberna
+D: peludo
+D: carnivoro
+D: natureza
+D: selvagem
+D: patas fortes
+D: montanhas
+D: pesado
+
+P: LAGARTO
+D: reptil
+D: rasteja
+D: pele seca
+D: pequeno
+D: sol
+D: natureza
+D: cauda
+D: rapido
+D: escamas
+D: frio
+
+P: CAVALO
+D: animal forte
+D: corre rapido
+D: usado em montaria
+D: herbivoro
+D: patas longas
+D: domesticado
+D: corrida
+D: sela
+D: campo
+D: velocidade
+
+P: VACA
+D: animal domestico
+D: leite
+D: campo
+D: herbivora
+D: gado
+D: faz mu
+D: fazenda
+D: alimento
+D: grande
+D: criacao
+
+P: PORCO
+D: animal domestico
+D: come tudo
+D: gordura
+D: fazenda
+D: grunhe
+D: mamifero
+D: carne
+D: chiqueiro
+D: rosado
+D: criacao
+
+P: GALINHA
+D: ave domestica
+D: bota ovos
+D: cacareja
+D: fazenda
+D: penosa
+D: alimento
+D: galinheiro
+D: voa pouco
+D: rural
+D: ave
+
+P: PATO
+D: ave aquatica
+D: nada
+D: bico largo
+D: lago
+D: penas
+D: voa
+D: gruguleja
+D: natureza
+D: alimento
+D: agua
+
+P: CORUJA
+D: ave noturna
+D: voa silencioso
+D: olhos grandes
+D: caça
+D: sabedoria
+D: natureza
+D: penas
+D: noite
+D: predadora
+D: arvores
+
+P: AGUIA
+D: ave de rapina
+D: voa alto
+D: caça
+D: visao forte
+D: garras
+D: montanhas
+D: predadora
+D: ceu
+D: liberdade
+D: natureza
+
+P: FORMIGA
+D: inseto
+D: pequena
+D: trabalha em grupo
+D: colonia
+D: forca
+D: natureza
+D: organizada
+D: carrega peso
+D: solo
+D: inseto
+
+P: ABELHA
+D: inseto
+D: produz mel
+D: voa
+D: colmeia
+D: poliniza
+D: natureza
+D: ferrao
+D: trabalha
+D: flores
+D: inseto
+
+P: BORBOLETA
+D: inseto
+D: asas coloridas
+D: voa
+D: metamorfose
+D: natureza
+D: leve
+D: flores
+D: beleza
+D: ciclo
+D: inseto
+
+P: ARVORE
+D: planta grande
+D: tronco
+D: folhas
+D: natureza
+D: sombra
+D: oxigenio
+D: crescimento
+D: raiz
+D: madeira
+D: ambiente
+
+P: FLORES
+D: plantas bonitas
+D: cores
+D: perfume
+D: natureza
+D: jardim
+D: reproducao
+D: primavera
+D: decoracao
+D: plantas
+D: vida
+
+P: JARDIM
+D: area verde
+D: plantas
+D: flores
+D: cuidado
+D: natureza
+D: casa
+D: beleza
+D: cultivo
+D: relaxamento
+D: ambiente
+
+P: CASA
+D: moradia
+D: familia
+D: abrigo
+D: paredes
+D: teto
+D: lar
+D: conforto
+D: residencia
+D: seguranca
+D: habitacao
+
+P: CIDADE
+D: area urbana
+D: predios
+D: pessoas
+D: transito
+D: ruas
+D: comercio
+D: movimento
+D: populacao
+D: urbanizacao
+D: vida
+
+P: PAIS
+D: territorio
+D: governo
+D: populacao
+D: fronteiras
+D: cultura
+D: idioma
+D: nacao
+D: economia
+D: mapa
+D: identidade
+
+P: BRASIL
+D: pais
+D: America do Sul
+D: futebol
+D: cultura
+D: lingua portuguesa
+D: diversidade
+D: clima tropical
+D: florestas
+D: populacao
+D: samba
+
+P: MUNDO
+D: planeta Terra
+D: paises
+D: continentes
+D: populacao
+D: natureza
+D: vida
+D: global
+D: geografia
+D: culturas
+D: espaco
+
+P: VIDA
+D: existencia
+D: seres vivos
+D: crescimento
+D: biologia
+D: natureza
+D: energia
+D: evolucao
+D: reproducao
+D: ciclos
+D: organismo
+
+P: AMOR
+D: sentimento
+D: carinho
+D: emocao
+D: afeto
+D: relacoes
+D: felicidade
+D: uniao
+D: paixao
+D: cuidado
+D: humano
+
+P: FLOR
+D: parte da planta
+D: colorida
+D: perfumada
+D: natureza
+D: jardim
+D: beleza
+D: reproducao
+D: primavera
+D: decoracao
+D: vida
+
+P: ABACAXI
+D: Fruta tropical
+D: Possui coroa
+D: Casca áspera
+D: Amarela por dentro
+D: Usada em sucos
+D: Tem espinhos
+D: Cresce em planta baixa
+D: Sabor agridoce
+D: Muito consumida no verão
+D: Combina com hortelã
+
+P: COMPUTADOR
+D: Equipamento eletrônico
+D: Usado para estudar
+D: Possui teclado
+D: Tem monitor
+D: Executa programas
+D: Conecta na internet
+D: Armazena arquivos
+D: Pode ser portátil
+D: Utilizado em empresas
+D: Tem processador
+
+P: FUTEBOL
+D: Esporte popular
+D: Jogado com bola
+D: Possui goleiro
+D: Tem dois times
+D: Jogado em gramado
+D: Existe Copa do Mundo
+D: Usa chuteira
+D: Tem árbitro
+D: Possui torcida
+D: Duração de noventa minutos
+
+P: GIRAFA
+D: Animal africano
+D: Pescoço longo
+D: Tem manchas
+D: É herbívora
+D: Vive em savanas
+D: Possui pernas altas
+D: Corre rapidamente
+D: Tem língua grande
+D: Vive em zoológicos
+D: Come folhas
+
+P: BIBLIOTECA
+D: Local silencioso
+D: Possui livros
+D: Usada para estudo
+D: Tem estantes
+D: Pode ser pública
+D: Frequentada por estudantes
+D: Possui empréstimos
+D: Tem mesas
+D: Organiza conhecimento
+D: Guarda enciclopédias
